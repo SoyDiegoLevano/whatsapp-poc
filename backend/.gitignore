@@ -1,0 +1,4 @@
+# backend/.gitignore
+node_modules/
+.wwebjs_auth/ # Carpeta donde whatsapp-web.js guarda la sesión
+npm-debug.log
