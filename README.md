@@ -14,11 +14,13 @@ Este proyecto es una demostración simple de cómo implementar la vinculación d
 * **Usa este código bajo tu propio riesgo y solo con fines educativos o de experimentación.**
 
 ## Estructura del Proyecto
+```
 whatsapp-poc/
 ├── backend/        # Servidor Node.js/Express + whatsapp-web.js + Socket.IO
 ├── frontend/       # Aplicación React con Vite + Socket.IO Client + QR Code Lib
 ├── .gitignore      # Archivos y carpetas a ignorar por Git
 └── README.md       # Este archivo
+```
 
 ## Prerrequisitos
 
